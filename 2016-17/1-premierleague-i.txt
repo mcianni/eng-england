@@ -187,15 +187,24 @@ Matchday 8
 
 [Sat Oct/15]
   Chelsea FC            3-0  Leicester City
+    [Costa 7' Hazard 33' Moses 80']
   AFC Bournemouth       6-1  Hull City
+    [Daniels 5' Cook 41' Stanislas 45' (pen.), 65' Wilson 83' Gosling 88'; Mason 34']
   Arsenal FC            3-2  Swansea City
+    [Walcott 26', 33' Özil 57' Xhaka 70'; Sigurdsson 38' Borja 66']
   Manchester City       1-1  Everton FC
+    [Nolito 72'; Lukaku 64']
   Stoke City            2-0  Sunderland AFC
+    [Allen 8', 45+1']
   West Bromwich Albion  1-1  Tottenham Hotspur
+    [Chadli 82'; Alli 89']
   Crystal Palace        0-1  West Ham United
+    [-; Lanzini 19' Cresswell 75']
 [Sun Oct/16]
   Middlesbrough FC      0-1  Watford FC
+    [-; Holebas 54']
   Southampton FC        3-1  Burnley FC
+    [Austin 52', 66' (pen.) Redmond 60'; Vokes 72' (pen.)]
 [Mon Oct/17]
   Liverpool FC          0-0  Manchester United
 
@@ -205,27 +214,45 @@ Matchday 9
   AFC Bournemouth       0-0  Tottenham Hotspur
   Arsenal FC            0-0  Middlesbrough FC
   Burnley FC            2-1  Everton FC
+    [Vokes 39' Arfield 90'; Bolasie 58']
   Chelsea FC            4-0  Manchester United
+    [Pedro 1' Cahill 21' Hazard 62' Kanté 70']
   Hull City             0-2  Stoke City
+    [-; Shaqiri 26', 50']
   Leicester City        3-1  Crystal Palace
+    [Musa 42' Okazaki 63' Fuchs 80'; Cabaye 85']
   Liverpool FC          2-1  West Bromwich Albion
+    [Mané 20' Coutinho 35'; McAuley 81']
   Manchester City       1-1  Southampton FC
+    [Iheanacho 55'; Redmond 27']
   Swansea City          0-0  Watford FC
   West Ham United       1-0  Sunderland AFC
+    [Reid 90+4']
 
 Matchday 10
 
 [Sat Oct/29]
   Crystal Palace        2-4  Liverpool FC
-  Everton FC            2-0  West Ham United
+    [McArthur 18', 33'; Can 16' Lovren 21' Matip 44' Firmino 71']
   Manchester United     0-0  Burnley FC
   Middlesbrough FC      2-0  AFC Bournemouth
-  Southampton FC        0-2  Chelsea FC
-  Stoke City            3-1  Swansea City
+    [Ramírez 39' Downing 56']
   Sunderland AFC        1-4  Arsenal FC
+    [Defoe 65' (pen.); Sánchez 19', 78' Giroud 71', 76']
   Tottenham Hotspur     1-1  Leicester City
+    [Janssen 44' (pen.); Musa 48']
   Watford FC            1-0  Hull City
+    [Dawson 82' (o.g.)]
   West Bromwich Albion  0-4  Manchester City
+    [-; Agüero 19', 28' Gündogan 79', 90']
+[Sun Oct/30]
+  Everton FC            2-0  West Ham United
+    [Lukaku 50' Barkley 76']
+  Southampton FC        0-2  Chelsea FC
+    [-; Hazard 6' Costa 55']
+[Mon Oct/31]
+  Stoke City            3-1  Swansea City
+    [Bony 3', 73' Mawson 55' (o.g.); Routledge 8']
 
 Matchday 11
 
