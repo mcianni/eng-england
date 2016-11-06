@@ -257,16 +257,27 @@ Matchday 10
 Matchday 11
 
 [Sat Nov/5]
-  AFC Bournemouth  Sunderland AFC
-  Arsenal FC  Tottenham Hotspur
-  Burnley FC  Crystal Palace
-  Chelsea FC  Everton FC
-  Hull City  Southampton FC
-  Leicester City  West Bromwich Albion
-  Liverpool FC  Watford FC
-  Manchester City  Middlesbrough FC
+  AFC Bournemouth       1-2  Sunderland AFC
+    [Gosling 11'; Anichebe 33' Defoe 74' (pen.) Pienaar 59']
+  Burnley FC            3-2  Crystal Palace
+    [Vokes 2' Gudmundsson 14' Barnes 90+4'; Wickham 60' Benteke 81' (pen.)]
+  Manchester City       1-1  Middlesbrough FC
+    [Agüero 43'; de Roon 90+1']
+  West Ham United       1-1  Stoke City
+    [Whelan 65' (o.g.); Krkic 75']
+  Chelsea FC            5-0  Everton FC
+    [Hazard 19', 56' Alonso 20' Costa 42' Pedro 65']
+[Sun Nov/6]
+  Arsenal FC            1-1  Tottenham Hotspur
+    [Wimmer 42' (o.g.); Kane 51' (pen.)]
+  Hull City             2-1  Southampton FC
+    [Snodgrass 61' Dawson 63'; Austin 6' (pen.)]
+  Liverpool FC          6-1  Watford FC
+    [Mané 27' 60' Coutinho 30' Can 43' Firmino 57' Wijnaldum 90+1'; Janmaat 75']
   Swansea City  Manchester United
-  West Ham United  Stoke City
+    [van der Hoorn 69'; Pogba 15' Ibrahimovic 21' 33']
+  Leicester City        1-2  West Bromwich Albion
+    [Slimani 55'; Morrison 52' Phillips 72']
 
 Matchday 12
 
