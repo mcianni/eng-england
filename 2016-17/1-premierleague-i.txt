@@ -282,16 +282,25 @@ Matchday 11
 Matchday 12
 
 [Sat Nov/19]
-  Crystal Palace  Manchester City
-  Everton FC  Swansea City
-  Manchester United  Arsenal FC
-  Middlesbrough FC  Chelsea FC
-  Southampton FC  Liverpool FC
-  Stoke City  AFC Bournemouth
-  Sunderland AFC  Hull City
-  Tottenham Hotspur  West Ham United
-  Watford FC  Leicester City
-  West Bromwich Albion  Burnley FC
+  Crystal Palace        1-2 Manchester City
+    [Wickham 66'; Touré 39' 83']
+  Everton FC            1-1 Swansea City
+    [Coleman 89'; Sigurdsson 41' (pen.)]
+  Manchester United     1-1 Arsenal FC
+    [Mata 68'; Giroud 89']
+  Middlesbrough FC      0-1 Chelsea FC
+    [-; Costa 41']
+  Southampton FC        0-0 Liverpool FC
+  Stoke City            0-1 AFC Bournemouth
+    [-; Aké 26']
+  Sunderland AFC        3-0 Hull City
+    [Defoe 34'; Anichebe 62' 84']
+  Tottenham Hotspur     3-2 West Ham United
+    [Winks 51', Kane 89' 90+1' (pen.); Antonio 24' Lanzini (68') (pen.)]
+  Watford FC            2-0 Leicester City
+    [Capoue 1', Pereyra 12'; Mahrez 15' (pen.)]
+  West Bromwich Albion  4-0 Burnley FC
+    [Phillips (4') Morrison (16') Fletcher (37') Rondón (64')]
 
 Matchday 13
 
